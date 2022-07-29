@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EC712AAB26F6964C0066E483"
-               BuildableName = "todoapp.app"
-               BlueprintName = "todoapp"
-               ReferencedContainer = "container:todoapp.xcodeproj">
+               BuildableName = "yoloapp.app"
+               BlueprintName = "yoloapp"
+               ReferencedContainer = "container:yoloapp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,11 +45,18 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EC712AAB26F6964C0066E483"
-            BuildableName = "todoapp.app"
-            BlueprintName = "todoapp"
-            ReferencedContainer = "container:todoapp.xcodeproj">
+            BuildableName = "yoloapp.app"
+            BlueprintName = "yoloapp"
+            ReferencedContainer = "container:yoloapp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "ELIXIR_DESKTOP_OS"
+            value = "ios"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -62,9 +69,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EC712AAB26F6964C0066E483"
-            BuildableName = "todoapp.app"
-            BlueprintName = "todoapp"
-            ReferencedContainer = "container:todoapp.xcodeproj">
+            BuildableName = "yoloapp.app"
+            BlueprintName = "yoloapp"
+            ReferencedContainer = "container:yoloapp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

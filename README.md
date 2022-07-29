@@ -1,10 +1,10 @@
-# TodoApp iOS: An iOS Sample App
+# YoloApp iOS: An iOS Sample App
 
 This xcode project wraps the [Desktop Sample App](https://github.com/elixir-desktop/desktop-example-app) to run on an iPhone.
 
 ## How to build & run
 
-1. Install the custom OTP version on your machine (*see known todos)
+1. Install the custom OTP version on your machine (*see known yolos)
 1. Install xcode from the app store.
 1. Install brew, elixir, git, carthage, npm
 
@@ -20,7 +20,7 @@ This xcode project wraps the [Desktop Sample App](https://github.com/elixir-desk
 1. Open the ios-example-app project with xcode
 1. Start the App
 
-## Known todos
+## Known yolos
 
 ### Update built-in Runtime
 

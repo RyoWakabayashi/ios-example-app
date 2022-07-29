@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct TodoApp: App {
+struct YoloApp: App {
     var content = ContentView()
     var body: some Scene {
         WindowGroup {
